@@ -1,16 +1,15 @@
 /**
- * SYST 17796 Project Base code.
- * Students can modify and extend to implement their game.
- * Add your name as an author and the date!
+ * SYST 17796 Group 6 Project Base code.
+ * @author Varvara Lyakisheva
+ * @author Ahmed Raza Hanif
+ * @author Ryan Abela-Nijjar
+ * @author Jeffrey Logue
  */
 package ca.sheridancollege.project;
 
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
- * @author dancye
- * @author Paul Bonenfant
- * @author Prem Parashar
  */
 public abstract class Player {
 
